@@ -13,3 +13,7 @@
 ## Data
 - [ ] Mehr Data-Augmentation
 - [ ] Transponieren statt nur Flip/Rotate
+
+## Recherche
+- [ ] self.normalize = transforms.Normalize(mean=[0.485, 0.456, 0.406], std=[0.229, 0.224, 0.225]) laut ki standart werte für resnet modelle bitte einmal prüfen
+- [ ] Sonstige ideen gerne hier einfach reinschreiben

@@ -7,9 +7,9 @@
 - [ ] AttentionResnet Module implementieren
 
 ## Loss & Metriken
-- [/] FocalLoss implementieren und mit CrossEntropy vergleichen
+- [ ] FocalLoss implementieren und mit CrossEntropy vergleichen
 - [ ] Bewertungsformel der Challenge auf Test-Ergebnisse anwenden
 
-## Data Pipeline
+## Data
 - [ ] Mehr Data-Augmentation
 - [ ] Transponieren statt nur Flip/Rotate

@@ -7,7 +7,7 @@
 - [ ] AttentionResnet Module implementieren
 
 ## Loss & Metriken
-- [ ] FocalLoss implementieren und mit CrossEntropy vergleichen
+- [x] FocalLoss implementieren und mit CrossEntropy vergleichen
 - [ ] Bewertungsformel der Challenge auf Test-Ergebnisse anwenden
 
 ## Data

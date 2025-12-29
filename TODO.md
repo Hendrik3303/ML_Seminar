@@ -3,7 +3,7 @@
 ## Architektur & Training
 - [x] Decoder mehr lightweight machen (1/4 Kanäle)
 - [x] ResNet50 mit anderen Gewichten testen (currently IMAGENET1K_V2)
-- [ ] Encoder teilweise einfrieren
+- [x] Encoder teilweise einfrieren
 - [ ] AttentionResnet Module implementieren
 
 ## Loss & Metriken

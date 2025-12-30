@@ -16,4 +16,22 @@
 
 ## Recherche
 - [ ] Datensatz analysieren
+    - Wie sehen die Daten genau aus? (visuelle Inspektion)
+    - Welche Strukturen sind zu erkennen und was bedeuten sie?
+    - Was repräsentieren die Daten?
+    - Wie groß ist die Varianz der Daten?
+    - Könnenn die Daten mathematisch beschrieben und visualisiert werden (t-SNE)?
+    - Wie sind die Daten gelabelt / annotiert?
+- [ ] Eingereichte Verfahren und erzielte Ergebnisse analysieren
+    - Literaturrecherche
+    - zentrale algorithmische verfahren
+    - grafische Veranschaulichung?
+- [ ] ---
 - [ ] Sonstige ideen gerne hier einfach reinschreiben
+
+## Generell
+- [ ] Foliensatz für Abschluss-Präsi vorbereiten
+- [ ] Projektokumentation schreiben
+    - Vorgehen
+    - erzielte Ergebnisse
+    - Vergleich mit bestehenden Lösungen

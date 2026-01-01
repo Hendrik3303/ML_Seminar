@@ -30,7 +30,7 @@
 - [ ] Sonstige ideen gerne hier einfach reinschreiben
 
 ## Generell
-- [ ] Foliensatz für Abschluss-Präsi vorbereiten
+- [x] Foliensatz für Abschluss-Präsi vorbereiten
 - [ ] Projektokumentation schreiben
     - Vorgehen
     - erzielte Ergebnisse

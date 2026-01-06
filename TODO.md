@@ -15,7 +15,7 @@
 - [x] Transponieren statt nur Flip/Rotate
 
 ## Recherche
-- [ ] Datensatz analysieren
+- [x] Datensatz analysieren
     - Wie sehen die Daten genau aus? (visuelle Inspektion)
     - Welche Strukturen sind zu erkennen und was bedeuten sie?
     - Was repräsentieren die Daten?

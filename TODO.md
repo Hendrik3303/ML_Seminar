@@ -30,8 +30,8 @@
     - zentrale algorithmische verfahren
     - grafische Veranschaulichung?
 - [ ] ---
-- [ ] Sonstige ideen gerne hier einfach reinschreiben
-
+-  ] Sonstige ideen gerne hier einfach reinschreiben
+[
 ## Generell
 - [X] Foliensatz für Abschluss-Präsi vorbereiten
 - [ ] Projektokumentation schreiben
@@ -39,8 +39,9 @@
     - erzielte Ergebnisse
     - Vergleich mit bestehenden Lösungen
 
-## Notes
+## Notes 1
 ### Elastische Difformierung:
+- [X]
 - Im Moment haben wir 20% Elastic Difformation eingebaut (sind aber hyperlokal)
 - Elastic wird jedes Mal neu initialisiert (muss nur einmal, danach zufällig anwenden)
 - Testweise ein paar Bilder nehmen (alpha = magnitude of displacement, sigma = of displacement)
@@ -52,7 +53,7 @@
 ### Reduzierung der Layer auf 1/4
 - Forward Block musste angepasst werden (Layer reduce)
 - Ausgaben der Up-Layer können kleiner sein 
-- unter Vorbehalt: Ausgabe auf 1/4 verringern
+- unter Vorbehalt: Ausgabe auf 1/4 verringern HILFE ICH HABE ES KAPUTT GEMACHT
 - reduce kann entfernt werden
 - statt layer 3 reduce -> layer 3 --> Zeile 89/90
 ### Freezing Layers

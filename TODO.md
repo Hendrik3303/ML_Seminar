@@ -5,7 +5,6 @@
 - [x] ResNet50 mit anderen Gewichten testen (currently IMAGENET1K_V2)
 - [x] Encoder teilweise einfrieren
 - [ ] (AttentionResnet Module implementieren)
-- [ ] 
 
 ## Loss & Metriken
 - [x] FocalLoss implementieren und mit CrossEntropy vergleichen
@@ -15,7 +14,6 @@
 - [x] Mehr Data-Augmentation (aktuelle Elastic Deformations)
 - [x] Transponieren statt nur Flip/Rotate
 - [x] Elastic Difformation (aber selten -> 20%)
-- [ ]
 
 ## Recherche
 - [x] Datensatz analysieren

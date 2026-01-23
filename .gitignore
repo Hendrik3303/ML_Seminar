@@ -1,4 +1,5 @@
 data/
 MoNuSAC_masks/
+predicted_masks/
 
 MoNuSAC_images_and_annotations.zip

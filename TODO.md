@@ -5,6 +5,8 @@
 - [x] ResNet50 mit anderen Gewichten testen (currently IMAGENET1K_V2)
 - [x] Encoder teilweise einfrieren
 - [ ] (AttentionResnet Module implementieren)
+- [ ] Maybe scheduler cos annealing (oder so)
+- [ ] dice score / mean IOU ()
 
 ## Loss & Metriken
 - [x] FocalLoss implementieren und mit CrossEntropy vergleichen
@@ -28,8 +30,7 @@
     - zentrale algorithmische verfahren
     - grafische Veranschaulichung?
 - [ ] ---
--  ] Sonstige ideen gerne hier einfach reinschreiben
-[
+- [ ] Sonstige ideen gerne hier einfach reinschreiben
 ## Generell
 - [X] Foliensatz für Abschluss-Präsi vorbereiten
 - [ ] Projektokumentation schreiben

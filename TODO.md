@@ -6,7 +6,8 @@
 - [x] Encoder teilweise einfrieren
 - [ ] (AttentionResnet Module implementieren)
 - [ ] Maybe scheduler cos annealing (oder so)
-- [ ] dice score / mean IOU ()
+- [x] dice score
+- [ ] mean IOU
 
 ## Loss & Metriken
 - [x] FocalLoss implementieren und mit CrossEntropy vergleichen

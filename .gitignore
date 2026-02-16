@@ -1,5 +1,6 @@
 data/
 MoNuSAC_masks/
 predicted_masks/
+ground_truth_masks_combined/
 
 MoNuSAC_images_and_annotations.zip

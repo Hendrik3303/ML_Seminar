@@ -5,13 +5,13 @@
 - [x] ResNet50 mit anderen Gewichten testen (currently IMAGENET1K_V2)
 - [x] Encoder teilweise einfrieren
 - [ ] (AttentionResnet Module implementieren)
-- [ ] Maybe scheduler cos annealing (oder so)
+- [x] Maybe scheduler cos annealing (oder so)
 - [x] dice score
-- [ ] mean IOU
+- [x] mean IOU
 
 ## Loss & Metriken
 - [x] FocalLoss implementieren und mit CrossEntropy vergleichen
-- [ ] Bewertungsformel der Challenge auf Test-Ergebnisse anwenden
+- [x] Bewertungsformel der Challenge auf Test-Ergebnisse anwenden
 
 ## Data
 - [x] Mehr Data-Augmentation (aktuelle Elastic Deformations)

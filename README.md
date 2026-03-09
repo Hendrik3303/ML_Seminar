@@ -1,4 +1,4 @@
-<h1> MoNuSAC Challenge Approach By Group 3 As Part Of The Seminar Maschinelles Lernen <h1>
+<h1> MoNuSAC Challenge Approach By Group 3 As Part Of The Seminar Maschinelles Lernen
 
 Our Finall Result is the Pyramid-Net.ipynb so we will explain here how this works (the U-Net works the same).
 

@@ -2,7 +2,7 @@
 
 Dieses Repository enthält den Lösungsansatz von **Gruppe 2** für die MoNuSAC Challenge im Rahmen des Seminars **Maschinelles Lernen**. 
 
-Im Fokus dieses Projekts steht die Segmentierung und Klassifikation von Zellkernen. Unser finales und bestes Modell ist das **Pyramid-Net (FPN)**. Ein alternativer Ansatz basierend auf einem **U-Net** steht ebenfalls in diesem Repository zur Verfügung und funktioniert nach dem gleichen Prinzip.
+Im Fokus dieses Projekts steht die Segmentierung und Klassifikation von Zellkernen. Unser finales und bestes Modell ist das **Feature-Pyramid-Net (FPN)**. Ein alternativer Ansatz basierend auf einem **U-Net** steht ebenfalls in diesem Repository zur Verfügung und funktioniert nach dem gleichen Prinzip.
 
 ---
 

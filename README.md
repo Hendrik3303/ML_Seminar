@@ -45,6 +45,7 @@ Bitte führe die Schritte zwingend in der folgenden Reihenfolge aus:
 
 ### Schritt 1: Datensatz herunterladen
 Lade dir den offiziellen **MoNuSAC Datensatz** von der Challenge-Website herunter und entpacke ihn lokal auf deinem Rechner.
+https://monusac-2020.grand-challenge.org/Data/
 
 ### Schritt 2: Binäre Masken generieren
 Öffne das Notebook `Binary_mask_generation.ipynb` und führe es aus. 
